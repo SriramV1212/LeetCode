@@ -27,15 +27,15 @@ class Solution:
             if s[i]==b[2] and r==0:
                 break
             if s[i]==b[0] and p>0:
-                if s[i-1]==a[0] or (q==0 and r==0) or l[len(l)-1]==a[0]:
+                if l[len(l)-1]==a[0]:
                     p-=1
                     l.pop()
             if s[i]==b[1] and q>0:
-                if s[i-1]==a[1] or (p==0 and r==0) or l[len(l)-1]==a[1]:
+                if l[len(l)-1]==a[1]:
                     q-=1
                     l.pop()
             if s[i]==b[2] and r>0:
-                if s[i-1]==a[2] or (p==0 and q==0) or l[len(l)-1]==a[2]:
+                if l[len(l)-1]==a[2]:
                     r-=1
                     l.pop()
         if p==0 and q==0 and r==0 and count==len(s):
