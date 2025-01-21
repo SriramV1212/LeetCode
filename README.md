@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SriramV1212/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SriramV1212/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/SriramV1212/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/SriramV1212/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2401-count-asterisks](https://github.com/SriramV1212/LeetCode/tree/master/2401-count-asterisks) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SriramV1212/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/SriramV1212/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SriramV1212/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/SriramV1212/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Database
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SriramV1212/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/SriramV1212/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## String Matching
 |  |
 | ------- |
