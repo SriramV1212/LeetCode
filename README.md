@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SriramV1212/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SriramV1212/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/SriramV1212/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SriramV1212/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/SriramV1212/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SriramV1212/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SriramV1212/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/SriramV1212/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## String Matching
