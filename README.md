@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SriramV1212/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/SriramV1212/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SriramV1212/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SriramV1212/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SriramV1212/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SriramV1212/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SriramV1212/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SriramV1212/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SriramV1212/LeetCode/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SriramV1212/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SriramV1212/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SriramV1212/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SriramV1212/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SriramV1212/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SriramV1212/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SriramV1212/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SriramV1212/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SriramV1212/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SriramV1212/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -74,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SriramV1212/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SriramV1212/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SriramV1212/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SriramV1212/LeetCode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SriramV1212/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SriramV1212/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
