@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SriramV1212/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SriramV1212/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SriramV1212/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/SriramV1212/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SriramV1212/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SriramV1212/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/SriramV1212/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SriramV1212/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SriramV1212/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/SriramV1212/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SriramV1212/LeetCode/tree/master/0283-move-zeroes) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/SriramV1212/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## String Matching
 |  |
